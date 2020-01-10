@@ -19,9 +19,11 @@
 
 ## AI
 
+## Editor
+
 ## Git
 
-## Editor
+- [Unity Git Repository Manager](https://github.com/rossborchers/UnityGitRepositoryManager) - Tool for pulling Git repositories directly into your project through editor. Very closely resembles Git submodule.
 
 ## VR
 
