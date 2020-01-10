@@ -23,6 +23,8 @@
 
 ## Git
 
+- [Unity Git Repository Manager](https://github.com/rossborchers/UnityGitRepositoryManager) - Tool for pulling Git repositories directly into your project through editor. Very closely resembles Git submodule.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
