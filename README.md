@@ -13,11 +13,16 @@
 ## Contents
 
 - [AI](#ai)
+- [Editor](#editor)
 - [VR](#vr)
 
 ## AI
 
 - [Fluid Behavior Tree](https://github.com/ashblue/fluid-behavior-tree) - A code based behavior tree solution.
+
+## Editor
+
+- [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) - Toolkit for creating custom editor windows. Improves unity's editor window overall.
 
 ## VR
 
