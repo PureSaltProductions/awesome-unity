@@ -4,11 +4,15 @@
 
 ## Branches
 
-[master](https://github.com/PureSaltProductions/awesome-unity/tree/master) - Has both free and paid for assets. All have been tested.
-[free](https://github.com/PureSaltProductions/awesome-unity/tree/free) - Has only free assets. All have been tested.
-[paid](https://github.com/PureSaltProductions/awesome-unity/tree/paid) - Has only paid for assets. All have been tested.
-[staging](https://github.com/PureSaltProductions/awesome-unity/tree/staging) - Simply for testing formatting before being pushed to the other branches. Should be ignored.
-[untested](https://github.com/PureSaltProductions/awesome-unity/tree/untested) - Has both free and paid for assets. All have not been tested and are here for reminder to do such.
+> [master](https://github.com/PureSaltProductions/awesome-unity/tree/master) - Has both free and paid for assets. All have been tested.
+
+> [free](https://github.com/PureSaltProductions/awesome-unity/tree/free) - Has only free assets. All have been tested.
+
+> [paid](https://github.com/PureSaltProductions/awesome-unity/tree/paid) - Has only paid for assets. All have been tested.
+
+> [staging](https://github.com/PureSaltProductions/awesome-unity/tree/staging) - Simply for testing formatting before being pushed to the other branches. Should be ignored.
+
+> [untested](https://github.com/PureSaltProductions/awesome-unity/tree/untested) - Has both free and paid for assets. All have not been tested and are here for reminder to do such.
 
 ## Contents
 
