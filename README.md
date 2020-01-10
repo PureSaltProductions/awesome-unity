@@ -13,9 +13,14 @@
 ## Contents
 
 - [AI](#ai)
+- [Editor](#editor)
 - [VR](#vr)
 
 ## AI
+
+## Editor
+
+- [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) - Toolkit for creating custom editor windows. Improves unity's editor window overall.
 
 ## VR
 
