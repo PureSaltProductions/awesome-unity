@@ -17,11 +17,7 @@
 
 ## AI
 
-- [Fluid Behavior Tree](https://github.com/ashblue/fluid-behavior-tree) - A code based behavior tree solution.
-
 ## VR
-
-- [VRTK](https://github.com/ExtendRealityLtd/VRTK) - A productive toolkit for rapidly building VR solutions.
 
 ## License
 
