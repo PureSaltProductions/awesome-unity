@@ -12,7 +12,12 @@
 
 ## Contents
 
+- [AI](#ai)
 - [VR](#vr)
+
+## AI
+
+- [Fluid Behavior Tree](https://github.com/ashblue/fluid-behavior-tree) - A code based behavior tree solution.
 
 ## VR
 
