@@ -13,6 +13,8 @@
 ## Contents
 
 - [AI](#ai)
+- [Editor](#editor)
+- [Git](#git)
 - [VR](#vr)
 
 ## AI
