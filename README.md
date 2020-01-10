@@ -25,11 +25,11 @@
 
 - [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) - Toolkit for creating custom editor windows. Improves unity's editor window overall.
 
+## Git
+
 ## VR
 
 - [VRTK](https://github.com/ExtendRealityLtd/VRTK) - A productive toolkit for rapidly building VR solutions.
-
-## Git
 
 ## License
 
