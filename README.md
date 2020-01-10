@@ -21,6 +21,10 @@
 
 - [Fluid Behavior Tree](https://github.com/ashblue/fluid-behavior-tree) - A code based behavior tree solution.
 
+## Editor
+
+## Git
+
 ## VR
 
 - [VRTK](https://github.com/ExtendRealityLtd/VRTK) - A productive toolkit for rapidly building VR solutions.
