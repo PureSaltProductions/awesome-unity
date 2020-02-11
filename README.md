@@ -15,6 +15,7 @@
 - [AI](#ai)
 - [Git](#ai)
 - [Editor](#editor)
+- [Effects](#effects)
 - [Mesh](#mesh)
 - [UI](#ui)
 - [VR](#vr)
@@ -22,6 +23,10 @@
 ## AI
 
 ## Editor
+
+## Effects
+
+- [MMFeedbacks](https://github.com/reunono/MMFeedbacks) - Triggerable effects engine to create "juice" or feedback in your game.
 
 ## Git
 
