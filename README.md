@@ -24,9 +24,11 @@
 
 ## Editor
 
+- [Scene Shot Bookmarks](https://github.com/derek-knox/SceneShotBookmarks) - Unity custom editor for bookmarking and resetting Scene View camera angles/settings in one-click.
+
 ## Effects
 
-- [MMFeedbacks](https://github.com/reunono/MMFeedbacks) - Triggerable effects engine to create "juice" or feedback in your game.
+- [MMFeedbacks](https://github.com/reunono/MMFeedbacks) - Triggerable effects framework to create "juice" or feedback in your game.
 
 ## Git
 
