@@ -18,6 +18,7 @@
 - [Effects](#effects)
 - [Mesh](#mesh)
 - [UI](#ui)
+- [Utility](#utility)
 - [VR](#vr)
 
 ## AI
@@ -41,6 +42,8 @@
 ## UI
 
 - [Recyclable Scroll Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - A performant scrolling system for many objects in a horizontal list and grid view.
+
+## Utility
 
 ## VR
 
