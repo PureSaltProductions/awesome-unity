@@ -16,6 +16,7 @@
 - [Editor](#editor)
 - [Git](#git)
 - [Mesh](#mesh)
+- [Utility](#utility)
 - [VR](#vr)
 
 ## AI
@@ -32,6 +33,7 @@
 
 ## Mesh
 
+## Utility
 ## VR
 - [VRTK](https://github.com/ExtendRealityLtd/VRTK) - A productive toolkit for rapidly building VR solutions.
 
