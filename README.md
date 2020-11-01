@@ -34,7 +34,11 @@
 ## Mesh
 
 ## Utility
+
+- [Unity Standalone File Browser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A simple wrapper for native file dialogs on Windows/Mac/Linux.
+
 ## VR
+
 - [VRTK](https://github.com/ExtendRealityLtd/VRTK) - A productive toolkit for rapidly building VR solutions.
 
 ## License
